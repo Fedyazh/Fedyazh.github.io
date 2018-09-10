@@ -4,9 +4,9 @@ skinparam class {
 	ArrowColor Black
 	BorderColor Black
 }
-class "P?" as P {
- M?
-O? A? (I?, C?)
+class "Студент" as P {
+ Компьютер
+Отчет делать (файлы заданий, занятия)
 }
 hide circle
 @enduml
