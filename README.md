@@ -1,12 +1,12 @@
-# Отчет а лабораторных работах
+# Отчет о лабораторных работах
 # студент группы ИДБ-15-14 Жирков Фёдор
 
 ## Лабораторная 1
-##[файл рамуса](Fedyazh.github.io/blob/master/sixq.rsf)
-##[диарамма классов код](Fedyazh.github.io/blob/master/диаграмма%20классов.txt)
-##[диаграмма классов картинка](Fedyazh.github.io/blob/master/%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%BE%D0%B2.png)
-##[диаграмма прецедентов код](Fedyazh.github.io/blob/master/диаграмма%20прецедентов.txt)
-##[диаграмма прецедентов картинка](Fedyazh.github.io/blob/master/прецедентов.png)
+## [файл рамуса](Fedyazh.github.io/blob/master/sixq.rsf)
+## [диарамма классов код](Fedyazh.github.io/blob/master/диаграмма%20классов.txt)
+## [диаграмма классов картинка](Fedyazh.github.io/blob/master/%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%BE%D0%B2.png)
+## [диаграмма прецедентов код](Fedyazh.github.io/blob/master/диаграмма%20прецедентов.txt)
+## [диаграмма прецедентов картинка](Fedyazh.github.io/blob/master/прецедентов.png)
 ## Лабораторная 2
 
 ## Лабораторная 3
