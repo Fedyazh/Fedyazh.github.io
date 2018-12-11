@@ -20,6 +20,6 @@
 
 [DFD](https://github.com/mamykina97/mamykina97.github.io/blob/master/DFD.PNG)
 
-[Ссылка на модель](https://github.com/mamykina97/mamykina97.github.io/blob/master/pdc-tilda.rsf)
+[Ссылка на модель](https://github.com/Fedyazh/Fedyazh.github.io/blob/master/pdc-tilda.rsf)
 
 
