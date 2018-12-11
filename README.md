@@ -20,8 +20,6 @@
 
 [DFD](https://github.com/mamykina97/mamykina97.github.io/blob/master/DFD.PNG)
 
-[Диаграмма прецендентов](https://github.com/mamykina97/mamykina97.github.io/blob/master/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D0%BF%D1%80%D0%B5%D1%86%D0%B5%D0%B4%D0%B5%D0%BD%D1%82%D0%BE%D0%B2%202.PNG)
-
 [Ссылка на модель](https://github.com/mamykina97/mamykina97.github.io/blob/master/pdc-tilda.rsf)
 
 
