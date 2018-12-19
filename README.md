@@ -27,14 +27,14 @@
 * Функциональная модель разрабатывается с точки зрения разработчика продукта, который непосредственно занимается созданием запланированного мобильного приложения.
 * Целью моделирования является наглядное представление процессов взаимодействия пользователя с готовым продуктом.
 * IDEF0 A0:
-![](https://github.com/Fedyazh/Fedyazh.github.io/blob/master/block%20A0.PNG)
+![](https://github.com/Fedyazh/Fedyazh.github.io/blob/master/block%20A01.PNG)
 * IDEF0 декомпозиция A0:
-![](https://github.com/Fedyazh/Fedyazh.github.io/blob/master/block%20A0%20-%20decompize.PNG)
+![](https://github.com/Fedyazh/Fedyazh.github.io/blob/master/block%20A01%20-%20decompize.PNG)
 * IDEF0 декомпозиция A1:
-![](https://github.com/Fedyazh/Fedyazh.github.io/blob/master/block%20A1.PNG)
+![](https://github.com/Fedyazh/Fedyazh.github.io/blob/master/block%20A11.PNG)
 * IDEF0 декомпозиция A2:
-![](https://github.com/Fedyazh/Fedyazh.github.io/blob/master/block%20A2.PNG) 
+![](https://github.com/Fedyazh/Fedyazh.github.io/blob/master/block%20A21.PNG) 
 * IDEF0 декомпозиция A3:
-![](https://github.com/Fedyazh/Fedyazh.github.io/blob/master/block%20A3.PNG)
+![](https://github.com/Fedyazh/Fedyazh.github.io/blob/master/block%20A31.PNG)
 
 
