@@ -33,7 +33,7 @@
 * IDEF0 декомпозиция A1:
 ![](https://github.com/Fedyazh/Fedyazh.github.io/blob/master/block%20A1.PNG)
 * IDEF0 декомпозиция A2:
-![](https://github.com/Fedyazh/Fedyazh.github.io/blob/master/block%20A2.PNG)
+![](https://github.com/Fedyazh/Fedyazh.github.io/blob/master/block%20A2.PNG) 
 * IDEF0 декомпозиция A3:
 ![](https://github.com/Fedyazh/Fedyazh.github.io/blob/master/block%20A3.PNG)
 
