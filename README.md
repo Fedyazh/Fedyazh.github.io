@@ -36,5 +36,7 @@
 ![](https://github.com/Fedyazh/Fedyazh.github.io/blob/master/block%20A21.PNG) 
 * IDEF0 декомпозиция A3:
 ![](https://github.com/Fedyazh/Fedyazh.github.io/blob/master/block%20A31.PNG)
+* DFD:
+![](https://github.com/Fedyazh/Fedyazh.github.io/blob/master/dfd-kurs.PNG)
 
 
