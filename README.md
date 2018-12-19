@@ -27,15 +27,15 @@
 * Функциональная модель разрабатывается с точки зрения владельца продукта, который непосредственно занимается созданием запланированного мобильного приложения для автоматизации индивидуальных тренировок по лёгкой атлетике.
 * Целью моделирования является наглядное представления всех процессов разработки ПО начиная с задумки, заканчивая готовым продуктом.
 * Объектом исследования является процесс разработки мобильного приложения для планирования индивидуальных тренировок по лёгкой атлетике.
-* IDEF0 Контекстная:
-![](https://github.com/Highlanderstankin/Balaganskiy.github.io/blob/master/Idef0%20%E2%84%961.PNG)
-* IDEF0 процессов:
-![](https://github.com/Highlanderstankin/Balaganskiy.github.io/blob/master/Idef0%20%E2%84%962.PNG)
-* IDEF0 декомпозиция процесса определения требований:
-![](https://github.com/Highlanderstankin/Balaganskiy.github.io/blob/master/Idef0%20%E2%84%963.PNG)
-* IDEF0 декомпозиция процесса разработки:
-![](https://github.com/Highlanderstankin/Balaganskiy.github.io/blob/master/Idef0%20%E2%84%964.PNG)
-* IDEF0 декомпозиция процесса проверки:
-![](https://github.com/Highlanderstankin/Balaganskiy.github.io/blob/master/Idef0%20%E2%84%965.PNG)
+* IDEF0 A0:
+![](https://github.com/Fedyazh/Fedyazh.github.io/blob/master/block%20A0.PNG)
+* IDEF0 декомпозиция A0:
+![](https://github.com/Fedyazh/Fedyazh.github.io/blob/master/block%20A0%20-%20decompize.PNG)
+* IDEF0 декомпозиция A1:
+![](https://github.com/Fedyazh/Fedyazh.github.io/blob/master/block%20A1.PNG)
+* IDEF0 декомпозиция A2:
+![](https://github.com/Fedyazh/Fedyazh.github.io/blob/master/block%20A2.PNG)
+* IDEF0 декомпозиция A3:
+![](https://github.com/Fedyazh/Fedyazh.github.io/blob/master/block%20A3.PNG)
 
 
