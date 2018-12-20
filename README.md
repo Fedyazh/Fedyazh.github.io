@@ -41,13 +41,13 @@
 # Лабораторная работа №6
 * Завершение идентификации всех потоков путём построения ERD (диаграммы классов без атрибутов) для всех потоков
     * ERD для потоков:
-    ![](https://github.com/Highlanderstankin/Balaganskiy.github.io/blob/master/UML%201.jpg)
+    ![](https://github.com/Fedyazh/Fedyazh.github.io/blob/master/erd1.jpg)
 * Завершение идентификации всех ролей путём построения ERD (диаграммы классов без атрибутов) для всех ролей
     * ERD для ролей:
     
-    ![](https://github.com/Highlanderstankin/Balaganskiy.github.io/blob/master/UML%203.jpg)
+    ![](https://github.com/Fedyazh/Fedyazh.github.io/blob/master/erd2.jpg)
 * Завершение идентификации всех модулей путём построения ERD (диаграммы классов без атрибутов) для всех модулей
     * ERD для модулей:
-    ![](https://github.com/Highlanderstankin/Balaganskiy.github.io/blob/master/UML%202.jpg)
+    ![](https://github.com/Fedyazh/Fedyazh.github.io/blob/master/erd3.jpg)
 
 
