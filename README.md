@@ -1,6 +1,7 @@
 # Отчет о лабораторных работах
 # студент группы ИДБ-15-14 Жирков Ф.В.
 [Текст курсового проекта DOCX](https://github.com/Fedyazh/Fedyazh.github.io/blob/master/Kursovaya%D0%9E%D0%B2%D1%87%D0%B8%D0%BD%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2.docx)
+
 [Текст курсового проекта PDF](https://github.com/Fedyazh/Fedyazh.github.io/blob/master/Kursovaya%D0%9E%D0%B2%D1%87%D0%B8%D0%BD%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2.pdf)
 
 ## Лабораторная 1
